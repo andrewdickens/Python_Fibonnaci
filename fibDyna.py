@@ -23,6 +23,3 @@ def fib(n):
 print(fibdyna(35))
 
 print(fib(35))
-
-test
-
